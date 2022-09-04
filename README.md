@@ -1,2 +1,2 @@
 # CTR-Prediction
-CTR prediction models
+CTR prediction models implementation.
